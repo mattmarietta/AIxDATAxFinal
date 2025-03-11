@@ -1,2 +1,2 @@
 # AIxDATAxFinal
-My team and I's final submission for the AIxData Datathon where we won 1st place for the Supervised Learning Pillar.
+My team and I's final submission for the AIxData Datathon where we won 1st place for the Supervised Learning Pillar. We were tasked with finding the Average disbursed loans based on a training and testing dataset. We developed a model that was comprised of an XGB model along with a random forest model. We preprocessed and cleaned our data and then combined both predictions from the models at the end to make our final calculation even stronger. 
